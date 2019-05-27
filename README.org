@@ -1,0 +1,3 @@
+* startpage
+
+Startpage for a browser with key navigation.
