@@ -1,0 +1,42 @@
+{
+    "links": [
+	{
+	    "name": "reddit",
+	    "pages": [
+		{
+		    "name": "unixporn",
+		    "url": "https://reddit.com/r/unixporn"
+		},
+		{
+		    "name": "emacs",
+		    "url": "https://reddit.com/r/emacs"
+		}
+	    ]
+	},
+	{
+	    "name": "news",
+	    "pages": [
+		{
+		    "name": "NZZ",
+		    "url": "https://www.nzz.ch"
+		},
+		{
+		    "name": "Hacker News",
+		    "url": "https://news.ycombinator.com/newest"
+		}
+	    ]
+	},
+	{
+	    "name": "music",
+	    "pages": [
+		{
+		    "name": "youtube",
+		    "url": "https://youtube.com"
+		}
+	    ]
+	}
+    ],
+    "settings": {
+	"header": "Welcome to startpage"
+    }
+}

@@ -1,0 +1,22 @@
+html {
+    background: #1b1c24;
+}
+
+h1 {
+    color: #547279;
+}
+
+table {
+    width: unset;
+    font-size: 20px;
+}
+
+tr {
+    color: #9ca0a3;
+    border-bottom-color: #9ca0a3;
+    border-top-color: #9ca0a3;
+}
+
+td {
+    padding: 15px 10px;
+}
