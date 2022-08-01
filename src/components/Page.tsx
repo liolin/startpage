@@ -8,7 +8,7 @@ export interface Prop {
 const Page: React.FC<Prop> = ({name, url}) => {
     return (
 	<div>
-	    <a href={url}>{name}</a>
+	    <a className="font-mono text-slate-50 hover:text-green-700" href={url}>{name}</a>
 	</div>
     )
 }
